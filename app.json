@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "blobtesting",
+    "slug": "blobtesting",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "blobtesting"
+}
